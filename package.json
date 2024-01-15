@@ -1,0 +1,25 @@
+{
+  "name": "api-test-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config jest.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.23.7",
+    "@babel/preset-env": "^7.23.8",
+    "@cucumber/cucumber": "^10.3.0",
+    "@types/jest": "^29.5.11",
+    "axios": "^1.6.5",
+    "babel-jest": "^29.7.0",
+    "chai": "^5.0.0",
+    "cucumber": "^6.0.7",
+    "eslint": "^8.56.0",
+    "jest": "^29.7.0",
+    "jest-cucumber": "^2.0.13"
+  }
+}
